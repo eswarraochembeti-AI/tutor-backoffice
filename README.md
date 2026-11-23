@@ -15,8 +15,8 @@ Cash Flow Forecast – compare anticipated income from outstanding invoices with
 What if? – analyse how the Cash Flow Forecast is affected if a selected student delays payment by 15 days.
 
 Live demo
-[tutor-backoffice.vercel.app
-]
+[Insert live LINK
+]+[tutor-backoffice.vercel.app]
 
 Information within the demo is wholly fictional including student names, example.com email addresses and figures. There is no log-in functionality. This is a prototype for a hackathon. Providing tutors with individual log-ins is the initial stage towards implementing TutorLedger in practice.
 
